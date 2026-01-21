@@ -69,5 +69,5 @@ cv2.imwrite(output_path, img)
 print("Annotated image saved at:", output_path)
 
 cv2.imshow("RoboDK Annotation", img)
-cv2.waitKey(0)
+cv2.waitKey(3000)
 cv2.destroyAllWindows()
