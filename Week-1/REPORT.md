@@ -33,20 +33,14 @@ This task helped in understanding how color images are represented as multi-chan
 
 ### 2.2 Results (Task A)
 
-📌 **INSERT YOUR SCREENSHOT HERE**
-
-👉 Place **ONE image** that shows:
-- Original image
-- Red channel
-- Green channel
-- Blue channel
 
 **(This is the image saved by `task-a.py`, e.g. `task_a_channels_grid.png`)**
 
-Example caption:
+
 ![Original RGB Image](images/colourimg.jpg)
 
 ![RGB Channels](images/task-a-result.jpg)
+
 > *Figure 1: Original RGB image and its Red, Green, and Blue channels.*
 
 ---
@@ -81,7 +75,8 @@ All annotation coordinates were selected manually by visually inspecting the ima
 
 **(This is the image saved by `task-b2.py`, e.g. `robodk_annotated.png`)**
 
-Example caption:
+
+
 ![RoboDK Snapshot](images/robodk_snapshot.png)
 
 ![RoboDK camera snapshot with OpenCV-based object annotations](images/robodk_annotated.png)
